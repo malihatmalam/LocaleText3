@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\(Praktikum) Praktikum Pemograman Aplikasi Bergerak 2 (Mobile)\\Pertemuan 7\\LocaleText3_start\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-in-rID\\values-in-rID.xml",
+            "map": [
+                {
+                    "source": "E:\\(Praktikum) Praktikum Pemograman Aplikasi Bergerak 2 (Mobile)\\Pertemuan 7\\LocaleText3_start\\app\\src\\main\\res\\values-in-rID\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "106,57,155,456,514,570,637,741,786,842,900,951",
+                        "endColumns": "47,47,299,56,54,65,102,43,54,56,49,66",
+                        "endOffsets": "149,100,450,508,564,631,735,780,836,894,945,1013"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,151,451,508,563,629,732,776,831,888,938",
+                        "endColumns": "47,47,299,56,54,65,102,43,54,56,49,66",
+                        "endOffsets": "98,146,446,503,558,624,727,771,826,883,933,1000"
+                    }
+                }
+            ]
+        }
+    ]
+}
